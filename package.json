@@ -1,0 +1,26 @@
+{
+  "name": "hello-jest",
+  "version": "0.0.1",
+  "description": "Jest Tests Starter Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "jest"
+  ]
+}
