@@ -1,8 +1,10 @@
 {
-  "name": "hello-jest",
+  "name": "@jayeshcp/hello-jest",
   "version": "0.0.1",
   "description": "Jest Tests Starter Template",
   "main": "index.js",
+  "author": "Jayesh Chandrapal",
+  "private": false,
   "scripts": {
     "test": "jest"
   },
@@ -15,7 +17,7 @@
     "node": "9.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://github.com/jayeshcp/Jest-Tests-Starter-Template"
   },
   "license": "MIT",
   "keywords": [
