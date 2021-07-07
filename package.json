@@ -14,7 +14,7 @@
     "jest": "^23.6.0"
   },
   "engines": {
-    "node": "10.x"
+    "node": "14.x"
   },
   "repository": {
     "url": "https://github.com/jayeshcp/Jest-Tests-Starter-Template"
